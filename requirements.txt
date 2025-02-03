@@ -1,0 +1,4 @@
+# requirements.txt file
+pymongo
+flask
+gunicorn
