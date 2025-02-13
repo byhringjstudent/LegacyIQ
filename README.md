@@ -1,5 +1,7 @@
 # LegacyIQ
 
+# Add this section to a .README in a folder named Client
+
 Client front-end built in React.js with:
 JavaScript,
 TypeScript
